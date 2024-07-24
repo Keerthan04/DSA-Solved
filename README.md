@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Keerthan04/DSA-Solved/tree/master/0042-trapping-rain-water) |
 | [0074-search-a-2d-matrix](https://github.com/Keerthan04/DSA-Solved/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Keerthan04/DSA-Solved/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthan04/DSA-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -28,12 +29,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Keerthan04/DSA-Solved/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Keerthan04/DSA-Solved/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Keerthan04/DSA-Solved/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Keerthan04/DSA-Solved/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 ## String
 |  |
