@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthan04/DSA-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Keerthan04/DSA-Solved/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Keerthan04/DSA-Solved/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthan04/DSA-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Keerthan04/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [1023-time-based-key-value-store](https://github.com/Keerthan04/DSA-Solved/tree/master/1023-time-based-key-value-store) |
@@ -108,4 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
