@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Keerthan04/DSA-Solved/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Keerthan04/DSA-Solved/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Keerthan04/DSA-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Keerthan04/DSA-Solved/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Keerthan04/DSA-Solved/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0948-sort-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Keerthan04/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/Keerthan04/DSA-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [1023-time-based-key-value-store](https://github.com/Keerthan04/DSA-Solved/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0948-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Keerthan04/DSA-Solved/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
