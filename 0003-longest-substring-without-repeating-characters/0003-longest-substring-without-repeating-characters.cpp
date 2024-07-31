@@ -11,12 +11,10 @@ public:
             }
             else{
                 //ele is in set so dup it is
-                while(s[l]!=s[r]){
+                while(dup.find(s[r])!=dup.end()){
                     dup.erase(s[l]);
                     l++;
                 }
-                dup.erase(s[l]);
-                l++;
             }
         }
         return res;
