@@ -3,7 +3,7 @@ public:
     int characterReplacement(string s, int k) {
         vector<int> count(26);
         int maxCount = 0;
-        
+    
         int i = 0;
         int j = 0;
         
