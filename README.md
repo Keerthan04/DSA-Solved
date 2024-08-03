@@ -220,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Keerthan04/DSA-Solved/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Keerthan04/DSA-Solved/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
