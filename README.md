@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthan04/DSA-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Keerthan04/DSA-Solved/tree/master/0792-binary-search) |
+| [0890-lemonade-change](https://github.com/Keerthan04/DSA-Solved/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Keerthan04/DSA-Solved/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0948-sort-an-array) |
 | [0966-binary-subarrays-with-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0966-binary-subarrays-with-sum) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Keerthan04/DSA-Solved/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Keerthan04/DSA-Solved/tree/master/0455-assign-cookies) |
+| [0890-lemonade-change](https://github.com/Keerthan04/DSA-Solved/tree/master/0890-lemonade-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Keerthan04/DSA-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Dynamic Programming
