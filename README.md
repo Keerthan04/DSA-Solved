@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Keerthan04/DSA-Solved/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthan04/DSA-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Keerthan04/DSA-Solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Keerthan04/DSA-Solved/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Keerthan04/DSA-Solved/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Keerthan04/DSA-Solved/tree/master/0907-koko-eating-bananas) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Keerthan04/DSA-Solved/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Keerthan04/DSA-Solved/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Keerthan04/DSA-Solved/tree/master/0455-assign-cookies) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Keerthan04/DSA-Solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/Keerthan04/DSA-Solved/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Keerthan04/DSA-Solved/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Keerthan04/DSA-Solved/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/Keerthan04/DSA-Solved/tree/master/0455-assign-cookies) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Keerthan04/DSA-Solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Keerthan04/DSA-Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Keerthan04/DSA-Solved/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0540-single-element-in-a-sorted-array) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/Keerthan04/DSA-Solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0792-binary-search](https://github.com/Keerthan04/DSA-Solved/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Keerthan04/DSA-Solved/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/Keerthan04/DSA-Solved/tree/master/1023-time-based-key-value-store) |
