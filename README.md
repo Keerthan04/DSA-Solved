@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Keerthan04/DSA-Solved/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Keerthan04/DSA-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Keerthan04/DSA-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Keerthan04/DSA-Solved/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0540-single-element-in-a-sorted-array) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Keerthan04/DSA-Solved/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
+| [0435-non-overlapping-intervals](https://github.com/Keerthan04/DSA-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Keerthan04/DSA-Solved/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Keerthan04/DSA-Solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0948-sort-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0948-sort-an-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Keerthan04/DSA-Solved/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Keerthan04/DSA-Solved/tree/master/0135-candy) |
 | [0410-split-array-largest-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Keerthan04/DSA-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Keerthan04/DSA-Solved/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Keerthan04/DSA-Solved/tree/master/0890-lemonade-change) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Keerthan04/DSA-Solved/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthan04/DSA-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Keerthan04/DSA-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Keerthan04/DSA-Solved/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
