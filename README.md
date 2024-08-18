@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthan04/DSA-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/Keerthan04/DSA-Solved/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/Keerthan04/DSA-Solved/tree/master/0076-minimum-window-substring) |
 | [0273-integer-to-english-words](https://github.com/Keerthan04/DSA-Solved/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/Keerthan04/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Keerthan04/DSA-Solved/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Keerthan04/DSA-Solved/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Keerthan04/DSA-Solved/tree/master/0053-maximum-subarray) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Keerthan04/DSA-Solved/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/Keerthan04/DSA-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/Keerthan04/DSA-Solved/tree/master/0800-letter-case-permutation) |
