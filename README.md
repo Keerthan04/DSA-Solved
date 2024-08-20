@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Keerthan04/DSA-Solved/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Keerthan04/DSA-Solved/tree/master/0283-move-zeroes) |
 | [0455-assign-cookies](https://github.com/Keerthan04/DSA-Solved/tree/master/0455-assign-cookies) |
+| [0567-permutation-in-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0567-permutation-in-string) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Keerthan04/DSA-Solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0908-middle-of-the-linked-list](https://github.com/Keerthan04/DSA-Solved/tree/master/0908-middle-of-the-linked-list) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Keerthan04/DSA-Solved/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Keerthan04/DSA-Solved/tree/master/0076-minimum-window-substring) |
 | [0273-integer-to-english-words](https://github.com/Keerthan04/DSA-Solved/tree/master/0273-integer-to-english-words) |
 | [0424-longest-repeating-character-replacement](https://github.com/Keerthan04/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0800-letter-case-permutation](https://github.com/Keerthan04/DSA-Solved/tree/master/0800-letter-case-permutation) |
 | [1023-time-based-key-value-store](https://github.com/Keerthan04/DSA-Solved/tree/master/1023-time-based-key-value-store) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Keerthan04/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthan04/DSA-Solved/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1023-time-based-key-value-store](https://github.com/Keerthan04/DSA-Solved/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Keerthan04/DSA-Solved/tree/master/1034-subarrays-with-k-different-integers) |
@@ -187,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Keerthan04/DSA-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Keerthan04/DSA-Solved/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/Keerthan04/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0567-permutation-in-string) |
 | [0966-binary-subarrays-with-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Keerthan04/DSA-Solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/1046-max-consecutive-ones-iii) |
