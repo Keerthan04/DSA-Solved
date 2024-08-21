@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Keerthan04/DSA-Solved/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0410-split-array-largest-sum) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Keerthan04/DSA-Solved/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Keerthan04/DSA-Solved/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Keerthan04/DSA-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Keerthan04/DSA-Solved/tree/master/0455-assign-cookies) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Keerthan04/DSA-Solved/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Keerthan04/DSA-Solved/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0948-sort-an-array) |
 ## Counting
 |  |
@@ -277,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0948-sort-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -337,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Keerthan04/DSA-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0090-subsets-ii) |
 | [0800-letter-case-permutation](https://github.com/Keerthan04/DSA-Solved/tree/master/0800-letter-case-permutation) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
