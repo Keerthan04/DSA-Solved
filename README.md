@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Keerthan04/DSA-Solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Keerthan04/DSA-Solved/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Keerthan04/DSA-Solved/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Keerthan04/DSA-Solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Keerthan04/DSA-Solved/tree/master/0435-non-overlapping-intervals) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Keerthan04/DSA-Solved/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Keerthan04/DSA-Solved/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Keerthan04/DSA-Solved/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Keerthan04/DSA-Solved/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Keerthan04/DSA-Solved/tree/master/0273-integer-to-english-words) |
@@ -350,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Keerthan04/DSA-Solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
