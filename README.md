@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Keerthan04/DSA-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Keerthan04/DSA-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Keerthan04/DSA-Solved/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthan04/DSA-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Keerthan04/DSA-Solved/tree/master/0624-maximum-distance-in-arrays) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Keerthan04/DSA-Solved/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0494-target-sum) |
 | [0650-2-keys-keyboard](https://github.com/Keerthan04/DSA-Solved/tree/master/0650-2-keys-keyboard) |
 | [0678-valid-parenthesis-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0967-minimum-falling-path-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0967-minimum-falling-path-sum) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Keerthan04/DSA-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Keerthan04/DSA-Solved/tree/master/0800-letter-case-permutation) |
 ## Quickselect
 |  |
