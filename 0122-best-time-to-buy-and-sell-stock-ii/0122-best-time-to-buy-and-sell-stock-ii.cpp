@@ -1,22 +1,18 @@
 class Solution {
 public:
-    int solve(int ind,int buy,vector<int>&prices,vector<vector<int>> &dp){
-        if(ind==prices.size()) return 0;//last meaning cant do anything
-        if(dp[ind][buy]!=-1) return dp[ind][buy];
-        int profit=0;
-        if(buy){
-            //we can buy so
-            dp[ind][buy] = max(-prices[ind]+solve(ind+1,0,prices,dp),solve(ind+1,1,prices,dp));
-        }
-        else{
-            //i cant buy shd sell only
-            dp[ind][buy] = max(prices[ind]+solve(ind+1,1,prices,dp),solve(ind+1,0,prices,dp));
-        }
-        return dp[ind][buy];
-    }
     int maxProfit(vector<int>& prices) {
         int n = prices.size();
-        vector<vector<int>> dp(n,vector<int>(2,-1));//index and buy(0 and 1) so dp[n][2]
-        return solve(0,1,prices,dp);//start with 0 then 1 is allowed to buy then dp and prices
+        vector<int> ahead(2,0);vector<int>cur(2,0);//only two to store the ahead and curr
+        for(int i=n-1;i>=0;i--){
+            for(int j=0;j<=1;j++){
+                if(j){
+                    cur[j] = max(-prices[i]+ahead[0],ahead[1]);
+                }else{
+                    cur[j] = max(prices[i]+ahead[1],ahead[0]);
+                }
+                ahead = cur;
+            }
+        }
+        return cur[1];//as ind=0 and buy=1 is start
     }
 };
