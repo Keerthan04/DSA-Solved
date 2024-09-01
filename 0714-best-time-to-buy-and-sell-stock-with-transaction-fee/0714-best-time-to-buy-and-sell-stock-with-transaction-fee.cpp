@@ -16,7 +16,17 @@ public:
     }
     int maxProfit(vector<int>& prices, int fee) {
         int n = prices.size();
-        vector<vector<int>> dp(n,vector<int>(2,-1));//index and buy(0 and 1) so dp[n][2]
-        return solve(0,1,prices,dp,fee);
+        vector<vector<int>> dp(n+1,vector<int>(2,0));//n+1 as ind==n is bc in this
+        dp[n][0] = 0;dp[n][1] = 0;//so base case
+        for(int i=n-1;i>=0;i--){
+            for(int j=0;j<=1;j++){
+                if(j){
+                    dp[i][j] = max(-prices[i]+dp[i+1][0],dp[i+1][1]);
+                }else{
+                    dp[i][j] = max((prices[i]-fee)+dp[i+1][1],dp[i+1][0]);
+                }
+            }
+        }
+        return dp[0][1];//as ind=0 and buy=1 is start
     }
 };
