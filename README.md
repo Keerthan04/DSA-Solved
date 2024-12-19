@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0540-single-element-in-a-sorted-array) |
+| [0542-01-matrix](https://github.com/Keerthan04/DSA-Solved/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Keerthan04/DSA-Solved/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Keerthan04/DSA-Solved/tree/master/0624-maximum-distance-in-arrays) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Keerthan04/DSA-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Keerthan04/DSA-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/Keerthan04/DSA-Solved/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/Keerthan04/DSA-Solved/tree/master/0583-delete-operation-for-two-strings) |
 | [0650-2-keys-keyboard](https://github.com/Keerthan04/DSA-Solved/tree/master/0650-2-keys-keyboard) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Keerthan04/DSA-Solved/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Keerthan04/DSA-Solved/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Keerthan04/DSA-Solved/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Keerthan04/DSA-Solved/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Keerthan04/DSA-Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Keerthan04/DSA-Solved/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/Keerthan04/DSA-Solved/tree/master/1036-rotting-oranges) |
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Keerthan04/DSA-Solved/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Keerthan04/DSA-Solved/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Keerthan04/DSA-Solved/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/Keerthan04/DSA-Solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Keerthan04/DSA-Solved/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Keerthan04/DSA-Solved/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Keerthan04/DSA-Solved/tree/master/1036-rotting-oranges) |
