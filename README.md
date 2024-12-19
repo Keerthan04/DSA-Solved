@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keerthan04/DSA-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Keerthan04/DSA-Solved/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0733-flood-fill](https://github.com/Keerthan04/DSA-Solved/tree/master/0733-flood-fill) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Keerthan04/DSA-Solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Keerthan04/DSA-Solved/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Keerthan04/DSA-Solved/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/Keerthan04/DSA-Solved/tree/master/0907-koko-eating-bananas) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Keerthan04/DSA-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Keerthan04/DSA-Solved/tree/master/0455-assign-cookies) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Keerthan04/DSA-Solved/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Keerthan04/DSA-Solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0948-sort-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Keerthan04/DSA-Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Keerthan04/DSA-Solved/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Keerthan04/DSA-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Keerthan04/DSA-Solved/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Keerthan04/DSA-Solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Keerthan04/DSA-Solved/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Keerthan04/DSA-Solved/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Keerthan04/DSA-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0624-maximum-distance-in-arrays](https://github.com/Keerthan04/DSA-Solved/tree/master/0624-maximum-distance-in-arrays) |
 | [0678-valid-parenthesis-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Keerthan04/DSA-Solved/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Keerthan04/DSA-Solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Keerthan04/DSA-Solved/tree/master/0890-lemonade-change) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Keerthan04/DSA-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Keerthan04/DSA-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Keerthan04/DSA-Solved/tree/master/0042-trapping-rain-water) |
+| [0780-max-chunks-to-make-sorted](https://github.com/Keerthan04/DSA-Solved/tree/master/0780-max-chunks-to-make-sorted) |
 ## Hash Table
 |  |
 | ------- |
