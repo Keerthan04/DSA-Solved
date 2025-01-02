@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Keerthan04/DSA-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Keerthan04/DSA-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Keerthan04/DSA-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1818-maximum-score-from-removing-substrings](https://github.com/Keerthan04/DSA-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Keerthan04/DSA-Solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Keerthan04/DSA-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Keerthan04/DSA-Solved/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Linked List
 |  |
 | ------- |
