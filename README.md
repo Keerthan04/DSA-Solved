@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1753-path-with-minimum-effort](https://github.com/Keerthan04/DSA-Solved/tree/master/1753-path-with-minimum-effort) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Keerthan04/DSA-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2358-number-of-ways-to-split-array](https://github.com/Keerthan04/DSA-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Keerthan04/DSA-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Keerthan04/DSA-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Keerthan04/DSA-Solved/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Keerthan04/DSA-Solved/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2358-number-of-ways-to-split-array](https://github.com/Keerthan04/DSA-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Linked List
 |  |
