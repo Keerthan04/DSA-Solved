@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Keerthan04/DSA-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Keerthan04/DSA-Solved/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Keerthan04/DSA-Solved/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Keerthan04/DSA-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -566,15 +567,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Keerthan04/DSA-Solved/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keerthan04/DSA-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Keerthan04/DSA-Solved/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Keerthan04/DSA-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Keerthan04/DSA-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Keerthan04/DSA-Solved/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Keerthan04/DSA-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Keerthan04/DSA-Solved/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keerthan04/DSA-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Keerthan04/DSA-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
