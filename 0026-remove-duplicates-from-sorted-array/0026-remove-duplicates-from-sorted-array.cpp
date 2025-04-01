@@ -9,9 +9,6 @@ public:
                 start+=1;
             }
         }
-        for(int i=start+1;i<nums.size();i++){
-            nums[i]=-1;
-        }
         return start+1;
     }
 };
