@@ -633,4 +633,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Keerthan04/DSA-Solved/tree/master/2292-counting-words-with-a-given-prefix) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Keerthan04/DSA-Solved/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
