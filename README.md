@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Keerthan04/DSA-Solved/tree/master/0127-word-ladder) |
 | [0273-integer-to-english-words](https://github.com/Keerthan04/DSA-Solved/tree/master/0273-integer-to-english-words) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0424-longest-repeating-character-replacement](https://github.com/Keerthan04/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Keerthan04/DSA-Solved/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0567-permutation-in-string) |
@@ -379,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/Keerthan04/DSA-Solved/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Keerthan04/DSA-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Keerthan04/DSA-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Keerthan04/DSA-Solved/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0662-maximum-width-of-binary-tree) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Keerthan04/DSA-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Keerthan04/DSA-Solved/tree/master/0547-number-of-provinces) |
 | [0563-binary-tree-tilt](https://github.com/Keerthan04/DSA-Solved/tree/master/0563-binary-tree-tilt) |
@@ -596,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Keerthan04/DSA-Solved/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Keerthan04/DSA-Solved/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Keerthan04/DSA-Solved/tree/master/0563-binary-tree-tilt) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0662-maximum-width-of-binary-tree) |
@@ -617,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Keerthan04/DSA-Solved/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Keerthan04/DSA-Solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/Keerthan04/DSA-Solved/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/Keerthan04/DSA-Solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Keerthan04/DSA-Solved/tree/master/0547-number-of-provinces) |
