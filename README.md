@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Keerthan04/DSA-Solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Keerthan04/DSA-Solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/Keerthan04/DSA-Solved/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/Keerthan04/DSA-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Keerthan04/DSA-Solved/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Keerthan04/DSA-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0503-next-greater-element-ii) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Keerthan04/DSA-Solved/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/Keerthan04/DSA-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1023-time-based-key-value-store](https://github.com/Keerthan04/DSA-Solved/tree/master/1023-time-based-key-value-store) |
 ## Math
@@ -739,4 +741,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Keerthan04/DSA-Solved/tree/master/0173-binary-search-tree-iterator) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Keerthan04/DSA-Solved/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
