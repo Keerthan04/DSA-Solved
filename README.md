@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Keerthan04/DSA-Solved/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/Keerthan04/DSA-Solved/tree/master/1753-path-with-minimum-effort) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2227-sum-of-subarray-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Keerthan04/DSA-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Keerthan04/DSA-Solved/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/Keerthan04/DSA-Solved/tree/master/2358-number-of-ways-to-split-array) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Keerthan04/DSA-Solved/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Keerthan04/DSA-Solved/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Keerthan04/DSA-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2227-sum-of-subarray-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2227-sum-of-subarray-ranges) |
 ## Greedy
 |  |
 | ------- |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0780-max-chunks-to-make-sorted](https://github.com/Keerthan04/DSA-Solved/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/Keerthan04/DSA-Solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Keerthan04/DSA-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2227-sum-of-subarray-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
 | ------- |
