@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Keerthan04/DSA-Solved/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Keerthan04/DSA-Solved/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/Keerthan04/DSA-Solved/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Keerthan04/DSA-Solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Keerthan04/DSA-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Keerthan04/DSA-Solved/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Keerthan04/DSA-Solved/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0503-next-greater-element-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Keerthan04/DSA-Solved/tree/master/0780-max-chunks-to-make-sorted) |
+| [0937-online-stock-span](https://github.com/Keerthan04/DSA-Solved/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Keerthan04/DSA-Solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Keerthan04/DSA-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2227-sum-of-subarray-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2227-sum-of-subarray-ranges) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Keerthan04/DSA-Solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Keerthan04/DSA-Solved/tree/master/0232-implement-queue-using-stacks) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0937-online-stock-span](https://github.com/Keerthan04/DSA-Solved/tree/master/0937-online-stock-span) |
 | [1023-time-based-key-value-store](https://github.com/Keerthan04/DSA-Solved/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
@@ -778,4 +781,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Keerthan04/DSA-Solved/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Keerthan04/DSA-Solved/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
