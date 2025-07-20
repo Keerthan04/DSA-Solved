@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Keerthan04/DSA-Solved/tree/master/0115-distinct-subsequences) |
 | [0126-word-ladder-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Keerthan04/DSA-Solved/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Keerthan04/DSA-Solved/tree/master/0131-palindrome-partitioning) |
 | [0273-integer-to-english-words](https://github.com/Keerthan04/DSA-Solved/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Keerthan04/DSA-Solved/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/Keerthan04/DSA-Solved/tree/master/0402-remove-k-digits) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Keerthan04/DSA-Solved/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Keerthan04/DSA-Solved/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Keerthan04/DSA-Solved/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Keerthan04/DSA-Solved/tree/master/0198-house-robber) |
@@ -555,6 +557,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Keerthan04/DSA-Solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/Keerthan04/DSA-Solved/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Keerthan04/DSA-Solved/tree/master/0800-letter-case-permutation) |
