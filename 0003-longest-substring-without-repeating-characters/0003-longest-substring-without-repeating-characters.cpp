@@ -1,22 +1,19 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_set<char> dup;
-        int l=0,r=0,res=0;
-        while(r<s.size()){
-            if(dup.find(s[r])==dup.end()){
-                dup.insert(s[r]);
-                res=max(res,r-l+1);
-                r++;
+        int maxLen = 0;
+        int wstart = 0;
+        unordered_map<char,int> indexMap;
+        for(int wend = 0;wend<s.size();wend++){
+            int rightChar = s[wend];
+            if(indexMap.find(rightChar)!=indexMap.end()){
+                //means already present in the indexMap
+                //so remove till that char
+                wstart = max(wstart,indexMap[rightChar]+1);
             }
-            else{
-                //ele is in set so dup it is
-                while(dup.find(s[r])!=dup.end()){
-                    dup.erase(s[l]);
-                    l++;
-                }
-            }
+            indexMap[rightChar] = wend;
+            maxLen = max(maxLen,wend-wstart+1);
         }
-        return res;
+        return maxLen;
     }
 };
