@@ -1,40 +1,29 @@
 class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
-        int length = s1.length();
-        if (length > s2.length()) return false;
-
-        unordered_map<char, int> mp;
-        for (char c : s1) {
-            mp[c]++;
+        int matched = 0;
+        unordered_map<char,int> freq;
+        for(auto character : s1){
+            freq[character]++;
         }
-
-        int left = 0, right = 0, count = mp.size();
-
-        while (right < s2.length()) {
-            // Reduce count if character in window matches character in s1
-            if (mp.find(s2[right]) != mp.end()) {
-                mp[s2[right]]--;
-                if (mp[s2[right]] == 0) {
-                    count--;
-                }
+        int wstart = 0;
+        for(int wend =0; wend<s2.length();wend++){
+            char rightChar = s2[wend];
+            if(freq.find(rightChar)!=freq.end()){
+                //if right char is in the freq then
+                freq[rightChar]--;//decrement first and check if 0 -> matched++
+                if(freq[rightChar]==0) matched++;
             }
-            right++;
-
-            // When the window size matches the length of s1
-            while (right - left == length) {
-                if (count == 0) {
-                    return true;
+            //if matched at any time becomes = no of characters then true
+            if(matched == (int)freq.size()) return true;
+            if(wend>=s1.length()-1){
+                //if the window size > pattern then from then on we shrink and each iteration maintain the same window(since index 0 in wend we do length -1 and >= else can do >and length only)
+                if(freq.find(s2[wstart])!=freq.end()){
+                    //the shrinking char is in the window then see if freq =0 then matched-- we do then increase the freq
+                    if(freq[s2[wstart]]==0) matched--;
+                    freq[s2[wstart]]++;
                 }
-
-                // Slide the window by removing the leftmost character
-                if (mp.find(s2[left]) != mp.end()) {
-                    if (mp[s2[left]] == 0) {
-                        count++;
-                    }
-                    mp[s2[left]]++;
-                }
-                left++;
+                wstart++;
             }
         }
         return false;
