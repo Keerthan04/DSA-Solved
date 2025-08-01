@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Keerthan04/DSA-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Keerthan04/DSA-Solved/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Keerthan04/DSA-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2358-number-of-ways-to-split-array](https://github.com/Keerthan04/DSA-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Keerthan04/DSA-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keerthan04/DSA-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Keerthan04/DSA-Solved/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Keerthan04/DSA-Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Keerthan04/DSA-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Keerthan04/DSA-Solved/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keerthan04/DSA-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Keerthan04/DSA-Solved/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Keerthan04/DSA-Solved/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/Keerthan04/DSA-Solved/tree/master/0800-letter-case-permutation) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Keerthan04/DSA-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Keerthan04/DSA-Solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2308-divide-array-into-equal-pairs](https://github.com/Keerthan04/DSA-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
