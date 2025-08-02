@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Keerthan04/DSA-Solved/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/Keerthan04/DSA-Solved/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Keerthan04/DSA-Solved/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthan04/DSA-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Keerthan04/DSA-Solved/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0416-partition-equal-subset-sum) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Keerthan04/DSA-Solved/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthan04/DSA-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/Keerthan04/DSA-Solved/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/Keerthan04/DSA-Solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Keerthan04/DSA-Solved/tree/master/0455-assign-cookies) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Keerthan04/DSA-Solved/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthan04/DSA-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Keerthan04/DSA-Solved/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Keerthan04/DSA-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Keerthan04/DSA-Solved/tree/master/0496-next-greater-element-i) |
@@ -495,12 +498,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Keerthan04/DSA-Solved/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthan04/DSA-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/Keerthan04/DSA-Solved/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Keerthan04/DSA-Solved/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthan04/DSA-Solved/tree/master/0347-top-k-frequent-elements) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Keerthan04/DSA-Solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Keerthan04/DSA-Solved/tree/master/2308-divide-array-into-equal-pairs) |
@@ -517,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Keerthan04/DSA-Solved/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthan04/DSA-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/Keerthan04/DSA-Solved/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Keerthan04/DSA-Solved/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0948-sort-an-array) |
@@ -531,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Keerthan04/DSA-Solved/tree/master/0164-maximum-gap) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthan04/DSA-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0948-sort-an-array) |
 ## Radix Sort
 |  |
@@ -607,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Keerthan04/DSA-Solved/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/Keerthan04/DSA-Solved/tree/master/1014-k-closest-points-to-origin) |
 ## Memoization
 |  |
