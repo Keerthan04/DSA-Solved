@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0966-binary-subarrays-with-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0967-minimum-falling-path-sum) |
 | [1014-k-closest-points-to-origin](https://github.com/Keerthan04/DSA-Solved/tree/master/1014-k-closest-points-to-origin) |
+| [1022-unique-paths-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/1022-unique-paths-iii) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Keerthan04/DSA-Solved/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/Keerthan04/DSA-Solved/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/1046-max-consecutive-ones-iii) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Keerthan04/DSA-Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Keerthan04/DSA-Solved/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0967-minimum-falling-path-sum) |
+| [1022-unique-paths-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/Keerthan04/DSA-Solved/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Keerthan04/DSA-Solved/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Keerthan04/DSA-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0476-number-complement](https://github.com/Keerthan04/DSA-Solved/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Keerthan04/DSA-Solved/tree/master/0795-k-th-symbol-in-grammar) |
 | [0800-letter-case-permutation](https://github.com/Keerthan04/DSA-Solved/tree/master/0800-letter-case-permutation) |
+| [1022-unique-paths-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/1022-unique-paths-iii) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Keerthan04/DSA-Solved/tree/master/2308-divide-array-into-equal-pairs) |
 ## Divide and Conquer
 |  |
@@ -624,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0494-target-sum) |
 | [0800-letter-case-permutation](https://github.com/Keerthan04/DSA-Solved/tree/master/0800-letter-case-permutation) |
+| [1022-unique-paths-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/1022-unique-paths-iii) |
 ## Quickselect
 |  |
 | ------- |
