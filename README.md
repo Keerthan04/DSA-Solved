@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keerthan04/DSA-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Keerthan04/DSA-Solved/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3355-minimum-levels-to-gain-more-points](https://github.com/Keerthan04/DSA-Solved/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Keerthan04/DSA-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Keerthan04/DSA-Solved/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2358-number-of-ways-to-split-array](https://github.com/Keerthan04/DSA-Solved/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3355-minimum-levels-to-gain-more-points](https://github.com/Keerthan04/DSA-Solved/tree/master/3355-minimum-levels-to-gain-more-points) |
 ## Linked List
 |  |
 | ------- |
