@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Keerthan04/DSA-Solved/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Keerthan04/DSA-Solved/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Keerthan04/DSA-Solved/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Keerthan04/DSA-Solved/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Keerthan04/DSA-Solved/tree/master/0217-contains-duplicate) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Keerthan04/DSA-Solved/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Keerthan04/DSA-Solved/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Keerthan04/DSA-Solved/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/Keerthan04/DSA-Solved/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/Keerthan04/DSA-Solved/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Keerthan04/DSA-Solved/tree/master/0279-perfect-squares) |
@@ -799,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Keerthan04/DSA-Solved/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Keerthan04/DSA-Solved/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Union Find
 |  |
@@ -888,4 +891,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Keerthan04/DSA-Solved/tree/master/1014-k-closest-points-to-origin) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Keerthan04/DSA-Solved/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
