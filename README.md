@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Keerthan04/DSA-Solved/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Keerthan04/DSA-Solved/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/Keerthan04/DSA-Solved/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Keerthan04/DSA-Solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/Keerthan04/DSA-Solved/tree/master/1646-kth-missing-positive-number) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Keerthan04/DSA-Solved/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/Keerthan04/DSA-Solved/tree/master/1753-path-with-minimum-effort) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Keerthan04/DSA-Solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Keerthan04/DSA-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Keerthan04/DSA-Solved/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Keerthan04/DSA-Solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Keerthan04/DSA-Solved/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Keerthan04/DSA-Solved/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2227-sum-of-subarray-ranges) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Keerthan04/DSA-Solved/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Keerthan04/DSA-Solved/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Keerthan04/DSA-Solved/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Keerthan04/DSA-Solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Keerthan04/DSA-Solved/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Keerthan04/DSA-Solved/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Keerthan04/DSA-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-online-stock-span](https://github.com/Keerthan04/DSA-Solved/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Keerthan04/DSA-Solved/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Keerthan04/DSA-Solved/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Keerthan04/DSA-Solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2227-sum-of-subarray-ranges) |
 ## Hash Table
 |  |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Keerthan04/DSA-Solved/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Keerthan04/DSA-Solved/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Keerthan04/DSA-Solved/tree/master/1394-minimum-path-cost-in-a-grid) |
+| [1628-count-submatrices-with-all-ones](https://github.com/Keerthan04/DSA-Solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Keerthan04/DSA-Solved/tree/master/1753-path-with-minimum-effort) |
 ## Design
 |  |
