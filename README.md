@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Keerthan04/DSA-Solved/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Keerthan04/DSA-Solved/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Keerthan04/DSA-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Keerthan04/DSA-Solved/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Keerthan04/DSA-Solved/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2040-minimum-cost-to-reach-destination-in-time](https://github.com/Keerthan04/DSA-Solved/tree/master/2040-minimum-cost-to-reach-destination-in-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Keerthan04/DSA-Solved/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Keerthan04/DSA-Solved/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-minimum-path-cost-in-a-grid](https://github.com/Keerthan04/DSA-Solved/tree/master/1394-minimum-path-cost-in-a-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Keerthan04/DSA-Solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Keerthan04/DSA-Solved/tree/master/1753-path-with-minimum-effort) |
+| [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Keerthan04/DSA-Solved/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
 ## Design
 |  |
 | ------- |
