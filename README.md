@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Keerthan04/DSA-Solved/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Keerthan04/DSA-Solved/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/Keerthan04/DSA-Solved/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Keerthan04/DSA-Solved/tree/master/0540-single-element-in-a-sorted-array) |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Keerthan04/DSA-Solved/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/Keerthan04/DSA-Solved/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Keerthan04/DSA-Solved/tree/master/0200-number-of-islands) |
+| [0498-diagonal-traverse](https://github.com/Keerthan04/DSA-Solved/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Keerthan04/DSA-Solved/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Keerthan04/DSA-Solved/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/0967-minimum-falling-path-sum) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Keerthan04/DSA-Solved/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/Keerthan04/DSA-Solved/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/Keerthan04/DSA-Solved/tree/master/0735-asteroid-collision) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Keerthan04/DSA-Solved/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Keerthan04/DSA-Solved/tree/master/2271-rearrange-array-elements-by-sign) |
