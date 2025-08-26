@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Keerthan04/DSA-Solved/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Keerthan04/DSA-Solved/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/Keerthan04/DSA-Solved/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Keerthan04/DSA-Solved/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3355-minimum-levels-to-gain-more-points](https://github.com/Keerthan04/DSA-Solved/tree/master/3355-minimum-levels-to-gain-more-points) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Keerthan04/DSA-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Keerthan04/DSA-Solved/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
