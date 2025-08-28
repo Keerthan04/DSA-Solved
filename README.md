@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Keerthan04/DSA-Solved/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3653-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Keerthan04/DSA-Solved/tree/master/3653-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Keerthan04/DSA-Solved/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Keerthan04/DSA-Solved/tree/master/3748-sort-matrix-by-diagonals) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
 |  |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/Keerthan04/DSA-Solved/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Keerthan04/DSA-Solved/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Keerthan04/DSA-Solved/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Keerthan04/DSA-Solved/tree/master/3748-sort-matrix-by-diagonals) |
 | [3847-minimum-swaps-to-sort-by-digit-sum](https://github.com/Keerthan04/DSA-Solved/tree/master/3847-minimum-swaps-to-sort-by-digit-sum) |
 ## String
 |  |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Keerthan04/DSA-Solved/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Keerthan04/DSA-Solved/tree/master/1753-path-with-minimum-effort) |
 | [3677-maximum-amount-of-money-robot-can-earn](https://github.com/Keerthan04/DSA-Solved/tree/master/3677-maximum-amount-of-money-robot-can-earn) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Keerthan04/DSA-Solved/tree/master/3748-sort-matrix-by-diagonals) |
 ## Design
 |  |
 | ------- |
