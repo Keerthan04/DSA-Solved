@@ -880,6 +880,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Keerthan04/DSA-Solved/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Keerthan04/DSA-Solved/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Keerthan04/DSA-Solved/tree/master/0577-employee-bonus) |
+| [0626-exchange-seats](https://github.com/Keerthan04/DSA-Solved/tree/master/0626-exchange-seats) |
 | [1179-game-play-analysis-i](https://github.com/Keerthan04/DSA-Solved/tree/master/1179-game-play-analysis-i) |
 | [2087-confirmation-rate](https://github.com/Keerthan04/DSA-Solved/tree/master/2087-confirmation-rate) |
 ## Binary Search Tree
